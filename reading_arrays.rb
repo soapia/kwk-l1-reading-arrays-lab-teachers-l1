@@ -7,12 +7,12 @@ $student_names = [
   "Rihanna"
 ]
 
-def first_student_by_index(array = student_names)
+def first_student_by_index(array)
   # Write a solution that returns the first student in the array student_names
   array.first
 end
 
-puts first_student_by_index
+puts first_student_by_index(student_names)
 
 def fourth_student_by_index
   # Write a solution that returns the first student in the array student_names
