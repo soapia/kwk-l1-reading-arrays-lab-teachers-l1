@@ -8,6 +8,14 @@ student_names = [
 ]
 
 def first_student_by_index(array)
+  student_names = [
+  "Adele",
+  "Beyoncé",
+  "Cardi B",
+  "Lady Gaga",
+  "Nicki Minaj",
+  "Rihanna"
+]
   # Write a solution that returns the first student in the array student_names
   array.first
 end
