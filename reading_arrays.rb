@@ -1,4 +1,4 @@
-student_names = [
+$student_names = [
   "Adele",
   "Beyoncé",
   "Cardi B",
